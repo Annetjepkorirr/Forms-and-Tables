@@ -1,17 +1,7 @@
-#zoho{
-    text-align: center;
-    margin: 10%;
-    color: aquamarine;
+.content{
+    margin-right: 30px;
+    padding-right: 70px;
 }
-#img{
-    float: right;
-    margin-right: 40px;
-    object-position: 40px;
-    margin-top: 40px;
-    width: 30%;
-}
-    
-
     
 
 
